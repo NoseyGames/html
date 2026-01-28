@@ -1,0 +1,16 @@
+{
+  "name": "noseygames",
+  "version": "1.0.0",
+  "description": "A collection of HTML games",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoseyGames/html.git"
+  },
+  "keywords": [
+    "games",
+    "html"
+  ],
+  "author": "NoseyGames",
+  "license": "MIT"
+}
